@@ -3,11 +3,11 @@
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div>
-	<h1>I'm senior in university</h1>
+	<h2>I'm senior in university</h2>
 	<ul>
-		<li>🌱 I’m interested in </li>
-		<li>📫 How to reach me:<br>
-			<a href="https://www.instagram.com/minchul._.s/">my instagram</a></i>
+		<li>🌱 I’m currently learning python, node.js, tensorflow</li>
+		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
+		<li>💬 Ask me whatever you're curious about</li>
 	</ul>
 </div>
   
