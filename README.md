@@ -5,8 +5,9 @@
   <div>
 	<h1>I'm senior in university</h1>
 	<ul>
-		<li>🌱 I’m currently learning ...</li>
-		<li>📫 How to reach me: ...</i>
+		<li>🌱 I’m interested in </li>
+		<li>📫 How to reach me:<br>
+			<a href="https://www.instagram.com/minchul._.s/">my instagram</a></i>
 	</ul>
 </div>
   
