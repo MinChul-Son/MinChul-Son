@@ -3,8 +3,11 @@
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <div>
-	🌱 I’m currently learning ...
-	📫 How to reach me: ...
+	<h1>I'm senior in university</h1>
+	<ul>
+		<li>🌱 I’m currently learning ...</li>
+		<li>📫 How to reach me: ...</i>
+	</ul>
 </div>
   
   
