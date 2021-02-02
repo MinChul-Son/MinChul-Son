@@ -1,7 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinChul-Son&fontSize=70&animation=twinkling)
+
+
+
+
 <div align=left>
 	
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
   </div>
   <div>
 	<h2>I'm senior in university</h2>
