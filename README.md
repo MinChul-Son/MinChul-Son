@@ -10,7 +10,7 @@
   <div>
 	<h2>I'm senior in university</h2>
 	<ul>
-		<li>🌱 I’m currently learning python, node.js, tensorflow</li>
+		<li>🌱 I’m currently learning JSP, Bootstrap, Spring</li>
 		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
 		<li>💬 Ask me whatever you're curious about</li>
 	</ul>	
