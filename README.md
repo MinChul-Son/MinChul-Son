@@ -29,7 +29,8 @@
   <br> 
   <img src="https://img.shields.io/badge/Node.js-092E20?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-DB3552?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-DB3552?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Bootstrap-A8B9CC?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
 </p>
   
   
