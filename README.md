@@ -7,7 +7,7 @@
 	
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
       [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={smc5236})](https://solved.ac/{smc5236})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={smc5236})](https://solved.ac/{smc5236})
   </div>
   <div>
 	<h2>I'm senior in university</h2>
