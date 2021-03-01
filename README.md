@@ -8,7 +8,6 @@
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=smc5236)](https://solved.ac/smc5236)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?smc5236=hyperflow)
   </div>
   <div>
 	<h2>I'm senior in university</h2>
