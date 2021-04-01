@@ -12,7 +12,7 @@
   <div>
 	<h2>I'm senior in university</h2>
 	<ul>
-		<li>👯 I will commit every day!!</li>
+		<li>👯 I will commit every day!!!</li>
 		<li>🌱 I’m currently learning Spring & Spring-Boot</li>
 		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
 		<li>💬 Ask me whatever you're curious about!!</li>
