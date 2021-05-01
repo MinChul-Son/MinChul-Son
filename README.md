@@ -15,7 +15,7 @@
 		<li>👯 I will commit every day!!!</li>
 		<li>🌱 I’m currently learning Spring & Spring-Boot</li>
 		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
-		<li>💬 Ask me whatever you're curious about!!</li>
+		<li>💬 Ask me whatever you're curious about!!!</li>
 	</ul>	
 </div>
 
