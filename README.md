@@ -16,7 +16,15 @@
 		<li>🌱 I’m currently learning Spring & Spring-Boot</li>
 		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
 		<li>💬 Ask me whatever you're curious about!!!</li>
-	</ul>	
+	</ul>
+</div>
+<div>
+	<h3>My certificate</h3>
+	<ul>
+		<li>Engineer Information Processing</li>
+		<li>Computer Specialist in Spreadsheet & Database Level-2</li>
+		<li>SQLD(Structured Query Language Developer)</li>
+	</ul>
 </div>
 
 
@@ -26,24 +34,28 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <br> 
-  <img src="https://img.shields.io/badge/Node.js-092E20?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-DB3552?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bootstrap-A8B9CC?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <br> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a>&nbsp
+  <br> 
 </p>
   
   
    
 <!--
 **MinChul-Son/MinChul-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-092E20?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-DB3552?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Bootstrap-A8B9CC?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
