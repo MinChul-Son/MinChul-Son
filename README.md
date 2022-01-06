@@ -10,8 +10,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smc5236)](https://solved.ac/smc5236)
   </div>
   <div>
-	<h2>I'm senior in university</h2>
+	<h2>I'm a Junior Backend Developer</h2>
 	<ul>
+		<li>👯 I’m currently working at <a href="https://11st.co.kr/">11st Corp</a></li>
 		<li>👯 I will commit every day!!!</li>
 		<li>😄 I love Spring, Spring Boot also JPA!!!</li>
 		<li>🌱 I’m currently learning JPA, Querydsl</li>
