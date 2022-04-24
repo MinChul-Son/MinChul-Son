@@ -1,3 +1,5 @@
+[![방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsj8367&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinChul-Son&fontSize=70&animation=twinkling)
 
 
@@ -8,6 +10,9 @@
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smc5236)](https://solved.ac/smc5236)
+	
+![profile 3d](./profile-3d-contrib/profile-night-green.svg)
+	
   </div>
   <div>
 	<h2>I'm a Junior Backend Developer</h2>
