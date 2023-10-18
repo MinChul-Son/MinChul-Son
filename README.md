@@ -21,7 +21,6 @@
 		<li>👯 I will commit every day!!!</li>
 		<li>😄 I love Spring, Spring Boot also JPA!!!</li>
 		<li>🌱 I’m currently learning JPA, Querydsl</li>
-		<li>📫 How to reach me: <a href="https://www.instagram.com/minchul._.s/">my instagram</a></li>
 		<li>💬 Ask me whatever you're curious about!!!</li>
 	</ul>
 </div>
