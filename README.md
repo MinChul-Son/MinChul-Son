@@ -17,8 +17,6 @@
   <div>
 	<h2>I'm a Junior Backend Developer</h2>
 	<ul>
-		<li>👯 I’m currently working at <a href="https://11st.co.kr/">11st Corp</a></li>
-		<li>👯 I will commit every day!!!</li>
 		<li>😄 I love Spring, Spring Boot also JPA!!!</li>
 		<li>🌱 I’m currently learning JPA, Querydsl</li>
 		<li>💬 Ask me whatever you're curious about!!!</li>
