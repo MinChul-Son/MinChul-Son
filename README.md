@@ -1,6 +1,6 @@
 
   <div>
-	<h2>I'm a Junior Backend Developer</h2>
+	<h2>I'm a Backend Developer</h2>
 	<ul>
 		<li>😄 I love Spring, Spring Boot also JPA!!!</li>
 		<li>🌱 I’m currently learning Kotlin, Kafka</li>
