@@ -1,33 +1,10 @@
-[![방문자 수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsj8367&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinChul-Son&fontSize=70&animation=twinkling)
-
-
-
-
-<div align=left>
-	
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinChul-Son)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=smc5236)](https://solved.ac/profile/smc5236)
-	
-![profile 3d](./profile-3d-contrib/profile-night-green.svg)
-	
-  </div>
   <div>
 	<h2>I'm a Junior Backend Developer</h2>
 	<ul>
 		<li>😄 I love Spring, Spring Boot also JPA!!!</li>
-		<li>🌱 I’m currently learning JPA, Querydsl</li>
+		<li>🌱 I’m currently learning Kotlin, Kafka</li>
 		<li>💬 Ask me whatever you're curious about!!!</li>
-	</ul>
-</div>
-<div>
-	<h3>My certificate</h3>
-	<ul>
-		<li>Engineer Information Processing</li>
-		<li>Computer Specialist in Spreadsheet & Database Level-2</li>
-		<li>SQLD(Structured Query Language Developer)</li>
 	</ul>
 </div>
 
@@ -37,6 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>&nbsp
